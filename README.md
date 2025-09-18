@@ -1,1 +1,3 @@
-Repository for e-texts of the Tibetan Canon
+# rKTs e-texts Lab for the Tibetan Canonical Literature
+
+
